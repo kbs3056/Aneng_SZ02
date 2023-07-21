@@ -1,8 +1,16 @@
 # Aneng_SZ02
 Hardware modifications for Aneng SZ02 V1.6. Li-Ion battery, infinite backlight
 
+I do not recommend doing any modifications if you are not familiar with smd soldering! Remember to clean the flux after soldering.
+
+If you are considering buying this meter, please watch my videos first. It has many downsides.
+https://www.youtube.com/watch?v=uEDUYeMHF6U
+https://www.youtube.com/watch?v=RqifJKY3i2E
+
 
 ![](original.jpg)
+
+![](moded.jpg)
 
 
 LP2985 TI DS:
