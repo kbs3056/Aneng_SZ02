@@ -2,6 +2,7 @@
 Hardware modifications for Aneng SZ02 V1.6. Li-Ion battery, infinite backlight
 
 
+![](original.jpg)
 
 
 LP2985 TI DS:
