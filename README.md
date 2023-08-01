@@ -12,10 +12,13 @@ https://www.youtube.com/watch?v=RqifJKY3i2E
 
 ![](moded.jpg)
 
+![](sch.png)
+
 
 LP2985 TI DS:
 
 7.4.3 Dropout Operation
+
 If the input voltage is lower than the nominal output voltage plus the specified dropout voltage, but all other
 conditions are met for normal operation, the device operates in dropout mode. In this mode, the output voltage
 tracks the input voltage. During this mode, the transient performance of the device becomes significantly
